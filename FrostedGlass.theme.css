@@ -78,7 +78,7 @@
   /* Spacing around the Discord window | DEFAULT: 20px */
   --window-roundness: 0px;
   /* Roundness of Discord | DEFAULT: 10px */
-  --scrollbar-colour: rgba(255, 255, 255, 0.25);
+  --scrollbar-colour: rgba(85, 69, 182, 1);
   /* DEFAULT: rgba(255,255,255,0.05) */
   --link-colour: #00b0f4;
   /* DEFAULT: #00b0f4 */

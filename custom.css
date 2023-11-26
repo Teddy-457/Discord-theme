@@ -1,0 +1,33 @@
+#pluginNoticeDismiss {
+	position: relative;
+}
+
+/*Hide help icon*/
+.toolbar-3_r2xA a {
+	display: none;
+}
+
+/*More space-efficient settings layout*/
+.sidebarRegion-1VBisG,
+.sidebarRegionScroller-FXiQOh {
+	flex: 0 0 auto;
+}
+
+.contentColumnDefault-3eyv5o {
+	max-width: unset;
+}
+
+/* Rounded Context Menus */
+.menu-1QACrS,
+.colorDefault-CDqZdO {
+	border-radius: 7px;
+}
+
+/* Plugin notice height */
+#pluginNotice {
+	height: 2% !important;
+}
+
+.colorDanger-2YLzLC {
+	display: none !important;
+}
