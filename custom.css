@@ -31,3 +31,19 @@
 .colorDanger-2YLzLC {
 	display: none !important;
 }
+
+/* Hide shop button */
+[href=\/shop] {
+	display: none;
+}
+
+/*Semi-fixed buttons*/
+.winButton__88672 {
+	height: 100% !important;
+	padding-top: 0.5%;
+}
+
+/**/
+[aria-label="Help"] {
+	display: none;
+}
